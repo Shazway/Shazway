@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/telli-moraglis-858b0a23a/**
 
-- 📄 My JobPass resume [https://jobpass.live/rUc2baJ](https://jobpass.live/rUc2baJ)
+- 📄 My JobPass resume [https://jobpass.live/HCv4RNP]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
