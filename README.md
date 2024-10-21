@@ -1,15 +1,13 @@
 <h1 align="center">Welcome to my github ! 👋, I'm Telli Moraglis</h1>
 <h3 align="center">A student from 42 Paris</h3>
 
-- 🔭 I’m currently working on [Vulkan Engine Helper](https://github.com/Shazway/VulkanEngine)
+- 🔭 I’m currently working on [Particle System](https://github.com/Shazway/particle_system)
 
-- 🌱 I’m currently learning **Vulkan in C++**
+- 🌱 I’m currently learning **OpenGL/OpenCL in C++**
 
 - 💬 Ask me about **C++, C, NestJS, Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/telli-moraglis-858b0a23a/**
-
-- 📄 My JobPass resume [https://jobpass.live/HCv4RNP]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
