@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my github ! 👋, I'm Telli Moraglis</h1>
+<h1 align="center">Welcome to my github ! 👋, I'm Telli</h1>
 <h3 align="center">A student from 42 Paris</h3>
 
 - 🔭 I’m currently working on [Particle System](https://github.com/Shazway/particle_system)
